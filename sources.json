@@ -1,0 +1,260 @@
+{
+  "checked_at": "2026-10-02",
+  "scope": "User authorized publishing the current Shine Squad page and assets on GitHub. Forms remain preview-only. Public source visibility does not independently establish third-party reuse rights.",
+  "business": {
+    "name": "Shine Squad Ceramic Coatings & Car Detailing",
+    "website": "https://www.shinesquadnoco.com/",
+    "instagram": "https://www.instagram.com/shinesquad.co/",
+    "identity_evidence": "Google business Website link points to shinesquadnoco.com; Instagram bio links the same domain and names Fort Collins / Northern Colorado.",
+    "google_listing": "https://www.google.com/search?q=shine+squad+fort+collins#lrd=0x876eb1f49f89f93f:0x8bf5d3bb728741b0,1,,,,",
+    "google_cid": "10085199742599905712",
+    "address": "2649 E Mulberry St #23, Fort Collins, CO 80524",
+    "address_evidence": "Read live in Google business/review panel; current official homepage also lists Mulberry St. Old Timnath/Johnstown references not used.",
+    "primary_phone": "+1 970-225-5880",
+    "primary_phone_source": "Current Google business listing",
+    "website_phone": "+1 970-590-6192",
+    "phone_note": "Sources disagree; page explicitly labels both. Primary tap-to-call uses Google-listed number, not a silent reconciliation.",
+    "rating": 5.0,
+    "review_count": 211,
+    "rating_evidence": "Visible Google review dialog: Rated 5.0 out of 5, 211 reviews."
+  },
+  "offer": {
+    "text": "9-year ceramic coating for $699",
+    "source": "Explicit user authorization",
+    "warranty": "No warranty conditions or limited-time claim supplied; none asserted."
+  },
+  "logo": {
+    "page": "https://www.shinesquadnoco.com/",
+    "original_url": "https://framerusercontent.com/images/21BAkObTQJvkwXlpPCb2DJASVlQ.png",
+    "local_asset": "assets/shine-squad-logo.png",
+    "dimensions": [
+      500,
+      282
+    ],
+    "palette": "Logo orange #f57c18 and black. Dark orange #9c4300 for accessible text on light backgrounds; warm neutral and charcoal surfaces."
+  },
+  "instagram_chronology": {
+    "method": "Orca embedded browser: profile post anchors/image alt dates, then public post detail time[datetime] and captions. Grid has older pinned posts before newer entries, so grid order was not treated as chronological.",
+    "latest_accessible_post": {
+      "url": "https://www.instagram.com/jrflicksss/reel/Db8PlI_OoAr/",
+      "posted_at": "2026-08-12T13:14:59.000Z",
+      "owner": "jrflicksss and shinesquad.co (both credited in post header)",
+      "subject": "BMW G80 M3 carbon-fiber seat PPF, not a ceramic-coating offer",
+      "display": "Linked under portfolio; not falsely represented by another image"
+    },
+    "next_accessible_post": {
+      "url": "https://www.instagram.com/shinesquad.co/reel/DbI2ifoR2Kq/",
+      "posted_at": "2026-07-23T14:15:48.000Z",
+      "owner": "shinesquad.co and jrflicksss",
+      "subject": "Shelby GT500 detailing, ceramic coating and replacement PPF",
+      "display": "Linked under portfolio"
+    },
+    "photos": "Four latest photo posts visible in public profile used below. Newer accessible entries are videos; selected still photos are not called the latest posts.",
+    "limit": "Publicly accessible 12-item profile grid and selected post details inspected. No assertion about inaccessible/hidden posts or a complete account archive."
+  },
+  "instagram_photos": [
+    {
+      "post_url": "https://www.instagram.com/shinesquad.co/p/DY29IymEUXj/",
+      "posted_at": "2026-05-27T22:21:22.000Z",
+      "source_alt": "Photo by Tint - PPF - Ceramic Coatings on May 27, 2026.",
+      "original_photo_url": "https://scontent.cdninstagram.com/v/t51.82787-15/708168622_17993517593967232_385871489713747469_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMiJ9&_nc_ohc=MnUhvrHW6OcQ7kNvwHqJL7p&_nc_oc=AdrhubEe8GxizO0ZqlVWAtyB_8uQcbmKtsC4cJ50resyTDviDUGnwrwwy7jLOGjAk5M&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=tjyWgJPfxYXpfXEQ2TlUqw&_nc_ss=78689&oh=00_AQNgJokfFst6kHj2DShtVkzIIlusjVq1eVkKT2hZpmIWZA&oe=6AC5C7EC",
+      "local_asset": "assets/instagram-camaro.webp",
+      "width": 512,
+      "height": 640,
+      "services_verified_in_caption": "paint polishing and ceramic coating"
+    },
+    {
+      "post_url": "https://www.instagram.com/shinesquad.co/p/DY0jBvzkc3L/",
+      "posted_at": "2026-05-26T23:54:44.000Z",
+      "source_alt": "Photo by Tint - PPF - Ceramic Coatings on May 26, 2026.",
+      "original_photo_url": "https://scontent.cdninstagram.com/v/t51.82787-15/707532505_17993386094967232_2263254991911561314_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMiJ9&_nc_ohc=H2aaN_2pHBEQ7kNvwEZKRWf&_nc_oc=AdrxgjSey09NDoAOD0RN_sml8yg7pPpJ-dRXPyGrLD6YAH2hURz7VJ5JQ1---_ZBPUc&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=tjyWgJPfxYXpfXEQ2TlUqw&_nc_ss=78689&oh=00_AQO7M3wbV9ZHsk71AQfcQ-et6lVcT-im-cceoyvKR2qkGg&oe=6AC5C105",
+      "local_asset": "assets/instagram-hummer.webp",
+      "width": 512,
+      "height": 640,
+      "services_verified_in_caption": "paint polishing and ceramic coating"
+    },
+    {
+      "post_url": "https://www.instagram.com/shinesquad.co/p/DYhlZdYkfW9/",
+      "posted_at": "2026-05-19T15:09:53.000Z",
+      "source_alt": "Photo by Tint - PPF - Ceramic Coatings on May 19, 2026.",
+      "original_photo_url": "https://scontent.cdninstagram.com/v/t51.82787-15/703200880_17992383281967232_6745459434371565721_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMiJ9&_nc_ohc=P7PzddTx2qUQ7kNvwEoab1t&_nc_oc=AdpQifQnvIugRakrNFPPdUAUeWspKaeI5JPI5vFhIMl_If8HpSYbx4M9XyOVQW9UfsY&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=tjyWgJPfxYXpfXEQ2TlUqw&_nc_ss=78689&oh=00_AQNcYwHMuqoOztmIG0vL3Xl0vql1C-JXGbfioLqHj0DMcw&oe=6AC5BAFB",
+      "local_asset": "assets/instagram-corvette.webp",
+      "width": 512,
+      "height": 640,
+      "services_verified_in_caption": "front PPF, ceramic coating, window tint"
+    },
+    {
+      "post_url": "https://www.instagram.com/shinesquad.co/p/DYVI1tjEbrd/",
+      "posted_at": "2026-05-14T19:09:27.000Z",
+      "source_alt": "Photo by Tint - PPF - Ceramic Coatings on May 14, 2026.",
+      "original_photo_url": "https://scontent.cdninstagram.com/v/t51.82787-15/699532508_17991733916967232_4409773423709790766_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMiJ9&_nc_ohc=-UrF1juI9J4Q7kNvwEdFWqv&_nc_oc=AdpxmZJTT8PdFCwccIptsigDckIvryilMvsw185Rw8wJJJOl07dGPlJv8Gl0g4FwciQ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=tjyWgJPfxYXpfXEQ2TlUqw&_nc_ss=78689&oh=00_AQPK34HbmEGqXrAO0RJqcy4_VdGK-M6pEQfjN0WAs4P_YQ&oe=6AC5BC99",
+      "local_asset": "assets/instagram-bronco.webp",
+      "width": 480,
+      "height": 640,
+      "services_verified_in_caption": "paint polish and ceramic coating"
+    }
+  ],
+  "google_reviews": [
+    {
+      "reviewer": "Cris",
+      "rating": 5,
+      "excerpt": "Let me start off by saying that these guys do great work!",
+      "word_count": 12,
+      "source_url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pjM1RYbFpiMnMzT1ZoTFJ6a3pja1IwU1hSTmNWRRAB!2m1!1s0x0:0x8bf5d3bb728741b0!3m1!1s2@1:CAIQACodChtycF9oOjc3TXlZb2s3OVhLRzkzckR0SXRNcVE%7C%7C?hl=en-GB",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pjM1RYbFpiMnMzT1ZoTFJ6a3pja1IwU1hSTmNWRRAB",
+      "photo_ordinal": 1,
+      "photo_alt_at_source": "Photo 1 in review by Cris",
+      "original_photo_url": "https://lh3.googleusercontent.com/grass-cs/ACvplmOF7hueg7o6oO1mPLdZKYm44ZgWyx2ZJDg7hPN44KUGXGYOoaL-nhrvwXdNE0vI_szNiuOnK-0AUI7oV-mkt5j1H_lt-sQ-IU0IdOgjDFTXB48xd0U8GgwgHX-VPCZb4UmVI9SzkF40xAQ=s115-p-k-rw",
+      "local_asset": "assets/review-cris.webp",
+      "width": 640,
+      "height": 800,
+      "date_label_at_source": "4 months ago",
+      "attachment_count_compared": 2
+    },
+    {
+      "reviewer": "Robin Mayo",
+      "rating": 5,
+      "excerpt": "They were kind and listened to all concerns I had with my vehicle.",
+      "word_count": 13,
+      "source_url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xSSk9GQkhhVVZNTUhkbmJUWk5RbUptVjB0YVQwRRAB!2m1!1s0x0:0x8bf5d3bb728741b0!3m1!1s2@1:CAIQACodChtycF9oOlRJOFBHaUVMMHdnbTZNQmJmV0taT0E%7C%7C?hl=en-GB",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSSk9GQkhhVVZNTUhkbmJUWk5RbUptVjB0YVQwRRAB",
+      "photo_ordinal": 3,
+      "photo_alt_at_source": "Photo 3 in review by Robin Mayo",
+      "original_photo_url": "https://lh3.googleusercontent.com/grass-cs/ACvplmPa_Ap_J_m0ovS1BioGlbyhEc3_fX6oTEbg9hpIDFiQTwKzqQsWGoQGTvEwuSmZb7kLQO3ln2l_H455D3Zd6_S8lxH1radJCGlbRZvJGuhoLx2_S4d3NO3p_d6R0HNfQXhb8coNgIVAUIpp=s115-p-k-rw",
+      "local_asset": "assets/review-robin-mayo.webp",
+      "width": 800,
+      "height": 600,
+      "date_label_at_source": "4 months ago",
+      "attachment_count_compared": 3
+    },
+    {
+      "reviewer": "Enrique Villalobos Sanchez",
+      "rating": 5,
+      "excerpt": "My car looks and smells brand new again. Looking it’s absolute best. You can really tell he takes pride in his work.",
+      "word_count": 22,
+      "source_url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2paYVZETTVkMnhVUzJkVU0xZ3hTbk5WWVRORmVWRRAB!2m1!1s0x0:0x8bf5d3bb728741b0!3m1!1s2@1:CAIQACodChtycF9oOjZaVDM5d2xUS2dUM1gxSnNVYTNFeVE%7C%7C?hl=en-GB",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paYVZETTVkMnhVUzJkVU0xZ3hTbk5WWVRORmVWRRAB",
+      "photo_ordinal": 2,
+      "photo_alt_at_source": "Photo 2 in review by Enrique Villalobos Sanchez",
+      "original_photo_url": "https://lh3.googleusercontent.com/grass-cs/ACvplmNxxknkjcxCvqmWJ48BkztgpWlQMhjRoClCtcV9EpYnUvuyfbjj67yDVhH8djh5w8Zr4jUY1QUQcuRf86yHuYG5lH6UrT8oBq-v5xycdsK-VwQ1vsmMOq2D7vKh-wxJOG9M4ojoLbKPgMGB=s115-p-k-rw",
+      "local_asset": "assets/review-enrique-villalobos-sanchez.webp",
+      "width": 600,
+      "height": 800,
+      "date_label_at_source": "6 months ago",
+      "attachment_count_compared": 2
+    },
+    {
+      "reviewer": "Patricia Venable",
+      "rating": 5,
+      "excerpt": "Great job!! Would definitely recommend Shine Squad for Ceramic Coating! Good price and honest owner! Very happy!",
+      "word_count": 17,
+      "source_url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21WWlpVNUpVaTB6V1hCcWVuZ3pjMEZYU0dkUmRtYxAB!2m1!1s0x0:0x8bf5d3bb728741b0!3m1!1s2@1:CAIQACodChtycF9oOmVZZU5JUi0zWXBqengzc0FXSGdRdmc%7C%7C?hl=en-GB",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WWlpVNUpVaTB6V1hCcWVuZ3pjMEZYU0dkUmRtYxAB",
+      "photo_ordinal": 1,
+      "photo_alt_at_source": "Photo 1 in review by Patricia Venable",
+      "original_photo_url": "https://lh3.googleusercontent.com/grass-cs/ACvplmODesIKEWoVzmaGBGeJqrB_sGnSHovT1mmedTcF4yYcnvn20KxlQ1wj9kp5fNYPw617O4wXZ5vt8rGH2STnrt_OdIp13wVD8UEFlPxrYshWLbE7oCvX_lswd52VRrimTeIbAd68a_O0x7c=s115-p-k-rw",
+      "local_asset": "assets/review-patricia-venable.webp",
+      "width": 600,
+      "height": 800,
+      "date_label_at_source": "4 months ago",
+      "attachment_count_compared": 3
+    },
+    {
+      "reviewer": "Patrick Larson",
+      "rating": 5,
+      "excerpt": "They delivered quality results on time and kept to the agreed upon schedule.",
+      "word_count": 13,
+      "source_url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2paeVEyMUtUVXR3TFc5VWRUSkVjV28wTjNSQk9YYxAB!2m1!1s0x0:0x8bf5d3bb728741b0!3m1!1s2@1:CAIQACodChtycF9oOjZyQ21KTUtwLW9UdTJEcWo0N3RBOXc%7C%7C?hl=en-GB",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paeVEyMUtUVXR3TFc5VWRUSkVjV28wTjNSQk9YYxAB",
+      "photo_ordinal": 1,
+      "photo_alt_at_source": "Photo 1 in review by Patrick Larson",
+      "original_photo_url": "https://lh3.googleusercontent.com/grass-cs/ACvplmNlh7stxguP4GAvg6J89DfFctUwRaMh4KoDkYc1anStUl80hyOfrhE46ClHKDhNWJXhiEjgOGegXs-9dVLvVHm-e5KQCOL9wK78UAQwsaL5lzUuVNxIr1R2xYon3mFoRchRWWxTyHNvQhnh=s115-p-k-rw",
+      "local_asset": "assets/review-patrick-larson.webp",
+      "width": 800,
+      "height": 450,
+      "date_label_at_source": "9 months ago",
+      "attachment_count_compared": 1
+    },
+    {
+      "reviewer": "thomas",
+      "rating": 5,
+      "excerpt": "Work was beyond belief. All I can say is the car looks absolutely brand new.",
+      "word_count": 15,
+      "source_url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pWRVNuSnRiUzB3TjJOalpVaFRVbEY1U0VKWk9IYxAB!2m1!1s0x0:0x8bf5d3bb728741b0!3m1!1s2@1:CAIQACodChtycF9oOjVESnJtbS0wN2NjZUhTUlF5SEJZOHc%7C%7C?hl=en-GB",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWRVNuSnRiUzB3TjJOalpVaFRVbEY1U0VKWk9IYxAB",
+      "photo_ordinal": 1,
+      "photo_alt_at_source": "Photo 1 in review by thomas",
+      "original_photo_url": "https://lh3.googleusercontent.com/grass-cs/ACvplmOkre8ZPD0kxylzTyMPng9scnMQ0DHFX1_6PLScL9X9FKC6Kdij9CH8SEUNCSRlw6LKY0PoTzLzo17IOb8LB3e_5cQk_HNfyz1MYBkt0iJcx9F6_oifWKsf-ivlCJrHRxK1tnjbuzZTVbM=s115-p-k-rw",
+      "local_asset": "assets/review-thomas.webp",
+      "width": 800,
+      "height": 600,
+      "date_label_at_source": "7 months ago",
+      "attachment_count_compared": 1
+    },
+    {
+      "reviewer": "Kim Closson",
+      "rating": 5,
+      "excerpt": "Now my car shines!! It is like it got a face lift.",
+      "word_count": 12,
+      "source_url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT210ZlMycEtSRmxmWVRoV1NWUjJkSFJtUkRVeWMwRRAB!2m1!1s0x0:0x8bf5d3bb728741b0!3m1!1s2@1:CAIQACodChtycF9oOmtfS2pKRFlfYThWSVR2dHRmRDUyc0E%7C%7C?hl=en-GB",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210ZlMycEtSRmxmWVRoV1NWUjJkSFJtUkRVeWMwRRAB",
+      "photo_ordinal": 1,
+      "photo_alt_at_source": "Photo 1 in review by Kim Closson",
+      "original_photo_url": "https://lh3.googleusercontent.com/grass-cs/ACvplmPnhkT_ztp1FcvbcfMdrIi6Irm9hk9wpzY9Y1zOvhOO99jLa2jgVgrnBP-34m89U9ZTeZKzx4LlWH5LHphHQmAMQnpsUvCXJ-tF9BkgGXiXnyhUEnpZ3m3UVjdoSqFyMdVo-NTHwFxc7wc=s115-p-k-rw",
+      "local_asset": "assets/review-kim-closson.webp",
+      "width": 800,
+      "height": 600,
+      "date_label_at_source": "11 months ago",
+      "attachment_count_compared": 5
+    },
+    {
+      "reviewer": "Doug Dropinski",
+      "rating": 5,
+      "excerpt": "Canaan and the Shine Squad team did an amazing job on my brand new truck.",
+      "word_count": 15,
+      "source_url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pCUWNuUlVkMTlmZERWcVJFOHdTV1J2U1hrd1ptYxAB!2m1!1s0x0:0x8bf5d3bb728741b0!3m1!1s2@1:CAIQACodChtycF9oOjBQcnRUd19fdDVqRE8wSWRvSXkwZmc%7C%7C?hl=en-GB",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCUWNuUlVkMTlmZERWcVJFOHdTV1J2U1hrd1ptYxAB",
+      "photo_ordinal": 3,
+      "photo_alt_at_source": "Photo 3 in review by Doug Dropinski",
+      "original_photo_url": "https://lh3.googleusercontent.com/grass-cs/ACvplmPGcVFl6RI_Y6r08hq-YCBJmiXqGaCHAzcQ2kiUAsW52hPN4y2AINF3EZMaslu_C743aD61oxDPo5F24BQ6hEuPFo8cKj17Dyr4ivdeX3ZU48GI-GluFlE70kOryh7AXUiVL2aLEmTsdn_b=s115-p-k-rw",
+      "local_asset": "assets/review-doug-dropinski.webp",
+      "width": 800,
+      "height": 600,
+      "date_label_at_source": "10 months ago",
+      "attachment_count_compared": 3
+    }
+  ],
+  "review_verification": {
+    "method": "Each photo extracted only from its .bwb7ce review container; source alt names reviewer. All 20 visible attachments across 8 selected reviews compared in labelled contact sheet. Exact individual permalink extracted from that review share metadata. Five gold SVG stars observed for each review.",
+    "excerpt_policy": "At most 25 words per individual review; exact contiguous excerpts, no edited wording.",
+    "image_processing": "Same photo identity requested at =s800; HTTP success and decoded image confirmed; optimized WebP, no compositing or reviewer reassignment.",
+    "date_policy": "Only Google relative date labels retained; exact posting dates not inferred."
+  },
+  "forms": "Both forms are preview-only: native validation and local status message; no transmission, storage, endpoint or success redirect. No tracking identifiers.",
+  "publication": {
+    "repository": "https://github.com/Sachita007/shine-squad",
+    "pages_url": "https://sachita007.github.io/shine-squad/",
+    "method": "Dedicated repository; GitHub Pages from main root with .nojekyll. No other client repository or hosting configuration is part of this publication."
+  },
+  "verification": {
+    "preview_url": "http://127.0.0.1:8763/",
+    "start_from_worktree": "python3 -m http.server 8763 --bind 127.0.0.1 --directory shine-squad",
+    "browser": "Orca embedded browser only",
+    "checks": [
+      "All 16 rendered image instances decoded successfully.",
+      "No horizontal page overflow at observed CSS viewport widths 350, 390, 427, 1363 and 1577.",
+      "Carousel smoke passed at CSS widths 350 and 1363: one/three full cards, neighboring peeks, arrows and Home/End boundaries.",
+      "Both preview forms reject empty required fields; valid synthetic input cancels transmission, leaves storage and URL unchanged, and displays an explicit nothing-sent status.",
+      "Internal CTA anchors resolve; phone links use the Google number except the explicitly labelled website alternative.",
+      "No iframe or external tracking scripts; browser console reported no messages.",
+      "Desktop and mobile hero/review screenshots visually inspected."
+    ],
+    "browser_console_commands": [
+      "await (await import('./smoke-review-carousel.js')).checkReviewCarousel()",
+      "await (await import('./smoke-preview.js')).checkPreviewForms()"
+    ],
+    "evidence_directory": "/tmp/shine-evidence/",
+    "evidence_files": ["desktop-initial.png", "desktop-reviews-final.png", "mobile-hero.png", "mobile-reviews.png"],
+    "note": "Orca browser zoom changes CSS viewport width relative to requested capture width. Native desktop capture avoids emulated-viewport screenshot tiling. Carousel smoke waits for settled scroll geometry rather than checking during animation."
+  }
+}
